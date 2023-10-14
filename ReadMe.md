@@ -169,7 +169,7 @@ __note:we only test on kinetic,but it should be support on other version.__
 #### libsdl2-dev
 > $sudo apt install libsdl2-dev
 #### opencv3.x
-We use OpenCV to show images from camera stream. Download and install instructions can be found at: http://opencv.org. Tested with OpenCV 3.3.0.Suggest using 3.3.0+.
+We use OpenCV to show images from camera stream. Download and install instructions can be found at: http://opencv.org. Tested with OpenCV 4.6.0.Suggest using 3.3.0+.
 #### stereo-vision function
 Follow the instruction of [here](https://developer.dji.com/onboard-sdk/documentation/sample-doc/advanced-sensing-stereo-depth-perception.html).
 
